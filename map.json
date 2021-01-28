@@ -87,6 +87,12 @@
          "id":14,
          "name":"feuerAnweisungen",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.attenio.de\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":25,
